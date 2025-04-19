@@ -1,5 +1,3 @@
-iturn0image6
-
 ```markdown
 # 👋 Hi there, I’m **Dao Van Dat**
 
