@@ -17,6 +17,7 @@
 </div>
 
 <hr>
+
 ## 🚀 Core Competencies
 
 <table>
