@@ -4,7 +4,7 @@
 
 <p align="center">
   📍 <strong>Da Nang, Vietnam</strong> &nbsp;|&nbsp;
-  ✉️ <a href="mailto:choecl263@gmail.com">choecl263@gmail.com</a> &nbsp;|&nbsp;
+  ✉️ <a href="mailto:datvan26.work@gmail.com">datvan26.work@gmail.com</a> &nbsp;|&nbsp;
   📞 +84 842 626 359 &nbsp;|&nbsp;
   🔗 <a href="https://linkedin.com/in/dao-van-dat-ab86b126a">LinkedIn</a> &nbsp;•&nbsp;
   <a href="https://github.com/dannyInfras">GitHub</a>
