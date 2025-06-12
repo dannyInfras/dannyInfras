@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td><strong>DevOps & CI/CD</strong></td>
-    <td>GitLab CI/CD, Docker, Jenkins, AWS EC2/ECS</td>
+    <td>GitLab CI/CD, Docker, Jenkins, AWS Azure, Terraform, Ansible, Prometheus, Grafana, Loki</td>
   </tr>
   <tr>
     <td><strong>Frontend & Full-Stack</strong></td>
@@ -39,14 +39,14 @@
   </tr>
   <tr>
     <td><strong>Infrastructure</strong></td>
-    <td>Traefik, Portainer, Nginx, Pulumi, RabbitMQ</td>
+    <td>Traefik, Portainer, Nginx, RabbitMQ, MinIO</td>
   </tr>
 </table>
 
 ## 🌱 Currently Learning
 
 - Advanced Kubernetes orchestration with Helm & Argo CD
-- Preparing for **AWS Solutions Architect – Associate (SAA-C03)** exam
+- Preparing for **Certified Kubernetes Administrator (CKA)** exam
 
 <hr>
 
